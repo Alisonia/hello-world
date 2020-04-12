@@ -1,2 +1,4 @@
 # hello-world
-Just a repository
+HI,
+I'm Alisonia.
+I'm a data science enthusiast.
